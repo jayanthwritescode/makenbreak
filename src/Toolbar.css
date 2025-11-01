@@ -1,0 +1,13 @@
+/* src/Toolbar.css */
+.toolbar {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #ccc;
+}
+
+.toolbar button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
